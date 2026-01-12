@@ -1,5 +1,11 @@
 body{
     background-color: aqua;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+
+}
+.resource-card{
+    border: 2;
+    border-radius: 80%;
+    border-color: black;
+    border-style: dashed;
 }
